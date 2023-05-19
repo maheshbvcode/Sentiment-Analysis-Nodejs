@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Text Sentiment Analysis</title>
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script src="./script.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Text Sentiment Analysis</h1>
+
+      <form id="sentimentForm">
+        <input type="text" id="textInput" placeholder="Enter text" />
+        <input type="submit" value="Analyze" />
+      </form>
+
+      <div class="results">
+        <div class="bg-color">
+          <p>Sentiment: <span id="g-sentiment"></span></p>
+          <p>Confidence Score: <span id="s-score"></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
