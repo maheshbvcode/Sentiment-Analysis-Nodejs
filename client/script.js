@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     function analyzeSentiment(text) {
-      fetch('http://localhost:3000/analyze?text=' + encodeURIComponent(text),{
+      fetch('https://sentiment-analysis-qcfk.onrender.com/analyze?text=' + encodeURIComponent(text),{
         method: 'GET'
       })
         .then(response => {
