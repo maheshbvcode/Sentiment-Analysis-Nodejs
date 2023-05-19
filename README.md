@@ -6,10 +6,10 @@ This is a web application analyzes sentiment from text. I built this using [Expr
 ## Documentation
 [Natural Sentiment_Analysis](https://naturalnode.github.io/natural/sentiment_analysis.html)
 ## Demo Website
-:point_right: 
+:point_right: [https://sentiment-analysis-nodejs.vercel.app/](https://sentiment-analysis-nodejs.vercel.app/)
 
 ## Video Demo
-:point_right: 
+:point_right:  [https://drive.google.com/file/d/1JuycF8TVZrqblN74kvN4HZO9t4WpGJm_/view?usp=sharing](https://drive.google.com/file/d/1JuycF8TVZrqblN74kvN4HZO9t4WpGJm_/view?usp=sharing)
 
 ## Getting Started
 First install the dependencies
